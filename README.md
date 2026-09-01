@@ -1,3 +1,5 @@
+Link to final video: https://www.youtube.com/watch?v=kX6UmSp5r-g
+
 # Prompt 1
 
 How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 15.00-second mark of the target video.
