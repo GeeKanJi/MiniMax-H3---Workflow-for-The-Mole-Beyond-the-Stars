@@ -3,6 +3,9 @@ More informations on Cosmo-edge.com: https://cosmo-edge.com/
 
 # Prompt 1
 
+First Frame: Plan1-Image1.jpg
+Last Frame: Plan1-Image2.jpg
+
 ```
 How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 15.00-second mark of the target video.
 
@@ -14,6 +17,9 @@ overall_soundscape: Faint spatial radio static, muffled Morse code beeps, and di
 non_diegetic_music: N/A
 
 # Prompt 2
+
+First Frame: Plan1-Image2.jpg
+Last Frame: Plan 2-Image 3.jpg
 
 ```
 How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 15.00-second mark of the target video.
@@ -27,6 +33,9 @@ non_diegetic_music: N/A
 
 # Prompt 3
 
+First Frame: Plan 2-Image 3.jpg
+Last Frame: Plan 3-Image 4.jpg
+
 ```
 How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 15.00-second mark of the target video.
 
@@ -38,6 +47,9 @@ non_diegetic_music: N/A
 ```
 
 # Prompt 4
+
+First Frame: Plan 3-Image 4.jpg
+Last Frame: Plan 4-Image 5.jpg
 
 ```
 How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 15.00-second mark of the target video.
