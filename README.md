@@ -1,4 +1,4 @@
-Link to final video: https://www.youtube.com/watch?v=kX6UmSp5r-g
+Link to final video: https://www.youtube.com/watch?v=kX6UmSp5r-g  
 More information on Cosmo-edge.com: https://cosmo-edge.com/
 
 # Prompt 1
